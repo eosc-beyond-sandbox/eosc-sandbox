@@ -38,6 +38,8 @@ The EOSC Core Innovation Sandbox is a comprehensive testbed equipped with advanc
 
 #### User dashboard
 
+<sub><sup>
 | Service        | URL                                | Documentation |
 | -------------- | ---------------------------------- | ------------- |
 | User dashboard | https://my.sandbox.eosc-beyond.eu/ |               |
+</sub></sup>
