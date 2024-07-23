@@ -11,33 +11,35 @@ The EOSC Core Innovation Sandbox is a comprehensive testbed equipped with advanc
 | Service registry   | https://api.providers.sandbox.eosc-beyond.eu/ |               |
 | Provider dashboard | https://providers.sandbox.eosc-beyond.eu/     |               |
 
-### Research product catalogue
+#### Research product catalogue
 
 | Service                             | URL                               | Documentation                             |
 | ----------------------------------- | --------------------------------- | ----------------------------------------- |
 | Knowledge graph                     | https://graph.openaire.eu/        | https://graph.openaire.eu/docs/apis/home/ |
 | Research product provider dashboard | https://beta.provide.openaire.eu/ |                                           |
 
-### Marketplace
+#### Marketplace
 
 | Service     | URL                                         | Documentation |
 | ----------- | ------------------------------------------- | ------------- |
 | Marketplace | https://marketplace.sandbox.eosc-beyond.eu/ |               |
 
-### Explore
+#### Explore
 
 | Service | URL                               | Documentation |
 | ------- | --------------------------------- | ------------- |
 | Explore | https://beta.provide.openaire.eu/ |               |
 
-### Search
+#### Search
 
 | Service | URL                                                | Documentation |
 | ------- | -------------------------------------------------- | ------------- |
 | Search  | https://search.marketplace.sandbox.eosc-beyond.eu/ |               |
 
-### User dashboard
+#### User dashboard
 
+<sub><sup>
 | Service        | URL                                | Documentation |
 | -------------- | ---------------------------------- | ------------- |
 | User dashboard | https://my.sandbox.eosc-beyond.eu/ |               |
+</sub></sup>
