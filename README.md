@@ -2,8 +2,12 @@ The EOSC Core Innovation Sandbox is a comprehensive testbed equipped with advanc
 
 ## List of services
 
-| Group                     | Component          | Service            | URL                                           | Documentation |
-| ------------------------- | ------------------ | ------------------ | --------------------------------------------- | ------------- |
-| Catalogue and marketplace | Resource catalogue | Service registry   | https://api.providers.sandbox.eosc-beyond.eu/ |               |
-|                           |                    | Provider dashboard | https://providers.sandbox.eosc-beyond.eu/     |               |
+### Catalogue and marketplace
+
+#### Resource catalogue
+
+| Service            | URL                                           | Documentation |
+| ------------------ | --------------------------------------------- | ------------- |
+| Service registry   | https://api.providers.sandbox.eosc-beyond.eu/ |               |
+| Provider dashboard | https://providers.sandbox.eosc-beyond.eu/     |               |
 
