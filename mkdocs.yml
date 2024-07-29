@@ -30,3 +30,4 @@ plugins:
   - tags
 extra_css:
   - stylesheets/extra.css
+copyright: EOSC Beyond is funded by the European Union Grant Agreement Number 101131875
