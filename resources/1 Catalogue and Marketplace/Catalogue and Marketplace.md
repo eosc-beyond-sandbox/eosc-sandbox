@@ -17,7 +17,7 @@
 ## EOSC marketplace
 | Service                         | Running | URL                                          | Procedures                                                                                                                                                                           | Owner  |
 |:--------------------------------|:--------|:---------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------|
-| Marketplace |         | https://marketplace.sandbox.eosc-beyond.eu | | Cyfronet |
+| Marketplace |         | [[https://marketplace.sandbox.eosc-beyond.eu]] | | Cyfronet |
 
 ## EOSC explore
 | Service                         | Running | URL                                          | Procedures                                                                                                                                                                           | Owner  |
