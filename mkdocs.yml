@@ -1,20 +1,17 @@
-site_name: FAIR-by-Design Microlearning
+site_name: EOSC Sandbox
 docs_dir: resources
 theme:
   name: material
   palette:
     primary: custom
-  logo: attachments/logo-white.png
+  logo: attachments/eosc-beyond-logo.png
   custom_dir: resources/overrides
   features:
     - navigation.footer
-    - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs
+    # - navigation.tabs.sticky
 markdown_extensions:
-  - markdown_include.include:
-      base_path: .
   - attr_list
-  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -31,52 +28,5 @@ markdown_extensions:
       custom_checkbox: true
 plugins:
   - tags
-  - mike:
-      version_selector: true
-  - exclude:
-      glob:
-        - "*Activities/*"
-        - "*Assessment/*"
-        - "*Templates/*"
-        - "*Feedback/*"
-        - "*.tmp"
-        - "*.pdf"
-        - "*.gz"
-        - "*.pptx"
-        - "*_plan.md"
-        - "*_facilitator_guide.md"
-        - "*syllabus.md"
-      regex:
-        - '.*\.(tmp|bin|tar)$'
-extra:
-  version:
-    provider: mike
 extra_css:
   - stylesheets/extra.css
-citation:
-  cff-version: 1.2.0
-  message: "If you use these learning materials, please cite it as below."
-  authors:
-    - family-names: Filiposka
-      given-names: Sonja
-      orcid: https://orcid.org/0000-0003-0034-2855
-      affiliation: UKIM
-    - family-names: Mishev
-      given-names: Anastas
-      orcid: https://orcid.org/0000-0001-7271-6655
-      affiliation: UKIM
-  title: "FAIR-by-Design Microlearning"
-  abstract: "Short how to guide that helps project members follow the stages of the FAIR-by-Design methodology without any specific choice on tools and formats."
-  version: 1.0.0
-  doi: 10.5070/zenodo.123
-  date-released: "2024"
-  license: CC-BY-4.0
-  license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
-  type: generic
-  keywords:
-    - "FAIR learning materials"
-    - "FAIR-by-Design Methodology"
-    - "Practical Implementation"
-  repository: "https://github.com/FAIR-by-Design-Methodology/microlearning"
-signposting:
-  cffUrl: https://raw.githubusercontent.com/FAIR-by-Design-Methodology/microlearning/main/CITATION.cff
