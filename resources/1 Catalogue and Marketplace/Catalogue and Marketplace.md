@@ -12,7 +12,7 @@
 | Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
 |:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
 | Knowledge graph |      [https://graph.openaire.eu]() | [Link](https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines) | | | OpenAIRE |
-| Research product provider dashboard    |[https://beta.provide.openaire.eu]() | [https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines]() | OpenAIRE |  
+| Research product provider dashboard    |[https://beta.provide.openaire.eu]() | [Link](https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines) | | | OpenAIRE |  
 
 ## EOSC marketplace
 | Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
