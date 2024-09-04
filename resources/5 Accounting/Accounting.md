@@ -8,4 +8,4 @@
 | Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
 |:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
 | Accounting user interface |   [https://ui.acc.sandbox.eosc-beyond.eu]() | | | [Link](https://argoeu.github.io/argo-accounting) | GRNET |
-| Accounting API |  [https://argoeu.github.io/argo-accounting/openapi/explore]() | [Link](https://api.acc.sandbox.eosc-beyond.eu) |  [Link](https://argoeu.github.io/argo-accounting/openapi/explore) | [Link](https://argoeu.github.io/argo-accounting) | GRNET |
+| Accounting API |  [https://argoeu.github.io/argo-accounting/openapi/explore]() | [Link](https://api.acc.sandbox.eosc-beyond.eu) |  [Link]() | [Link](https://argoeu.github.io/argo-accounting) | GRNET |
