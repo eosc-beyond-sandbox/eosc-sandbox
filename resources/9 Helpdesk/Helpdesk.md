@@ -1,6 +1,6 @@
 # Helpdesk
 ## EOSC helpdesk
-| Service                         | Running | URL                                          | Procedures                                                                                                                                                                           | Owner  |
-|:--------------------------------|:--------|:---------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------|
-| Helpdesk |         | [https://helpdesk.sandbox.eosc-beyond.eu]() | [https://zenodo.org/records/7308617#.Y7_Je7LMK-b]()    | KIT |
+| Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
+|:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
+| Helpdesk |  [https://helpdesk.sandbox.eosc-beyond.eu]() | [Link](https://zenodo.org/records/7308617#.Y7_Je7LMK-b) | | | KIT |
 
