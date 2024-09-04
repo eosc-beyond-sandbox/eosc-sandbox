@@ -17,19 +17,19 @@
 ## EOSC marketplace
 | Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
 |:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
-| Marketplace |         | [https://marketplace.sandbox.eosc-beyond.eu]() | | Cyfronet |
+| Marketplace |         [https://marketplace.sandbox.eosc-beyond.eu]() | | | | Cyfronet |
 
 ## EOSC explore
 | Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
 |:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
-| Explore |         | [https://beta.provide.openaire.eu]() | | OpenAIRE |
+| Explore |        [https://beta.provide.openaire.eu]() | | | | OpenAIRE |
 
 ## EOSC search service
 | Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
 |:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
-| Search service |         | [https://search.marketplace.sandbox.eosc-beyond.eu]() | | Cyfronet |
+| Search service |       [https://search.marketplace.sandbox.eosc-beyond.eu]() | | | | Cyfronet |
 
 ## EOSC user dashboard
 | Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
 |:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
-| User dashboard |         | [https://my.sandbox.eosc-beyond.eu]() | | Cyfronet |
+| User dashboard |       [https://my.sandbox.eosc-beyond.eu]() | | | | Cyfronet |
