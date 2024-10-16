@@ -1,11 +1,30 @@
 # Catalogue and Marketplace
 
-## EOSC service resource catalogue
+## EOSC Service Catalogue
 
-| Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
-|:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
-| EOSC service resource catalogue | [https://api.providers.sandbox.eosc-beyond.eu]() | [Link](https://github.com/madgeek-arc/resource-catalogue-docs) | | | Athena |
-| Provider dashboard | [https://providers.sandbox.eosc-beyond.eu]()     | [Link](https://wiki.eoscfuture.eu/display/PUBLIC/1.3+EOSC+Service+Catalogue%3A+Architecture+and+Interoperability+Guidelines) | | | Athena |  
+<!-- | Service                         | URL                                              | Integration documentation                                                                                                    | User guides | Technology documentation | Owner  |
+| :------------------------------ | :----------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :---------- | :----------------------- | :----- |
+| EOSC service resource catalogue | [https://api.providers.sandbox.eosc-beyond.eu]() | [Link](https://github.com/madgeek-arc/resource-catalogue-docs)                                                               |             |                          | Athena |
+| Provider dashboard              | [https://providers.sandbox.eosc-beyond.eu]()     | [Link](https://wiki.eoscfuture.eu/display/PUBLIC/1.3+EOSC+Service+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |             |                          | Athena | -->
+
+
+| Registry                  |                                                                                                                  |
+| :------------------------ | :--------------------------------------------------------------------------------------------------------------- |
+| Service URL               | [https://api.providers.sandbox.eosc-beyond.eu](https://api.providers.sandbox.eosc-beyond.eu)                     |
+| Integration documentation | [https://github.com/madgeek-arc/resource-catalogue-docs](https://github.com/madgeek-arc/resource-catalogue-docs) |
+| User guides               |                                                                                                                  |
+| Technology documentation  |                                                                                                                  |
+| Owner                     | Athena                                                                                                           |
+
+
+| Provider dashboard        |                                                                                                                                                                                                                                              |
+| :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Service URL               | [https://providers.sandbox.eosc-beyond.eu](https://providers.sandbox.eosc-beyond.eu)                                                                                                                                                         |
+| Integration documentation | [https://wiki.eoscfuture.eu/display/PUBLIC/1.3+EOSC+Service+Catalogue%3A+Architecture+and+Interoperability+Guidelines](https://wiki.eoscfuture.eu/display/PUBLIC/1.3+EOSC+Service+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |
+| User guides               |                                                                                                                                                                                                                                              |
+| Technology documentation  |                                                                                                                                                                                                                                              |
+| Owner                     | Athena                                                                                                                                                                                                                                       |
+
 
 ## EOSC research product catalogue
 
