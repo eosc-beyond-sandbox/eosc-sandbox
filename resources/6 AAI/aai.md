@@ -1,10 +1,18 @@
 # AAI
 
-## EOSC Core Infrastructure Proxy 
+## EOSC Core Infrastructure Proxy
+
 | Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
 |:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
 | Connects EOSC Core services |   https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core | [Link](registering-services-with-the-core-infrastructure-proxy.md) | | | GRNET |
 
+| Connects EOSC Core services |                                                                    |
+| :-------------------------- | :----------------------------------------------------------------- |
+| Service URL                 | https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core         |
+| Integration documentation   | [Link](registering-services-with-the-core-infrastructure-proxy.md) |
+| User guides                 |                                                                    |
+| Technology documentation    |                                                                    |
+| Owner                       | GRNET                                                              |
 
 ## EOSC Identity Hub - Infrastructure Proxy 
 | Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
