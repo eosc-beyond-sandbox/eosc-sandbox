@@ -44,6 +44,7 @@
 | Owner                     | Cyfronet                                                                                 |
 
 ## EOSC explore
+
 | Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
 |:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
 | Explore |        [https://beta.provide.openaire.eu]() | | | | OpenAIRE |
@@ -67,3 +68,13 @@
 | User guides               |                                                                        |
 | Technology documentation  |                                                                        |
 | Owner                     | Cyfronet                                                               |
+
+## EOSC Order Management
+
+| Order Handling System     |                                                                                                                                                            |
+| :------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Service URL               | [Swagger UI](https://marketplace.sandbox.eosc-beyond.eu/api_docs/swagger/index.html?urls.primaryName=EOSC%20Marketplace%20Ordering%20API)                  |
+| Integration documentation | [https://wiki.eoscfuture.eu/.../Guidelines](https://wiki.eoscfuture.eu/display/PUBLIC/5.+Order+Management%3A+Architecture+and+Interoperability+Guidelines) |
+| User guides               |                                                                                                                                                            |
+| Technology documentation  |                                                                                                                                                            |
+| Owner                     | Cyfronet                                                                                                                                                   |
