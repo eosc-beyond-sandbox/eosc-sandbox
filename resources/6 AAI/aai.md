@@ -2,26 +2,30 @@
 
 ## EOSC Core Infrastructure Proxy
 
-| Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
-|:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
-| Connects EOSC Core services |   https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core | [Link](registering-services-with-the-core-infrastructure-proxy.md) | | | GRNET |
+| EOSC Core Infrastructure Proxy |                                                                                                                                                          |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Service URL                    | [https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core](https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core)                                 |
+| Integration documentation      | [Service Registration in the EOSC Core Innovation Sandbox via the Core Infrastructure Proxy](registering-services-with-the-core-infrastructure-proxy.md) |
+| User guides                    |                                                                                                                                                          |
+| Technology documentation       |                                                                                                                                                          |
+| Owner                          | GRNET                                                                                                                                                    |
 
-| Connects EOSC Core services |                                                                    |
-| :-------------------------- | :----------------------------------------------------------------- |
-| Service URL                 | https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core         |
-| Integration documentation   | [Link](registering-services-with-the-core-infrastructure-proxy.md) |
-| User guides                 |                                                                    |
-| Technology documentation    |                                                                    |
-| Owner                       | GRNET                                                              |
+## EOSC Identity Hub
 
-## EOSC Identity Hub - Infrastructure Proxy 
-| Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
-|:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
-| SSO for the EOSC EU Node |   |  |  |  | GEANT |
-
+| EOSC Identity Hub         |       |
+| :------------------------ | :---- |
+| Service URL               |       |
+| Integration documentation |       |
+| User guides               |       |
+| Technology documentation  |       |
+| Owner                     | GEANT |
 
 ## EOSC Access Federation
-| Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
-|:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
-| Trust anchors and metadata for the EOSC Federated AAI |    | | |  | GEANT |
 
+| EOSC Access Federation    |       |
+| :------------------------ | :---- |
+| Service URL               |       |
+| Integration documentation |       |
+| User guides               |       |
+| Technology documentation  |       |
+| Owner                     | GEANT |
