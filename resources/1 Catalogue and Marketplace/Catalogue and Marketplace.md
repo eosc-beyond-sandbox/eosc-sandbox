@@ -2,19 +2,13 @@
 
 ## EOSC Service Catalogue
 
-<!-- | Service                         | URL                                              | Integration documentation                                                                                                    | User guides | Technology documentation | Owner  |
-| :------------------------------ | :----------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :---------- | :----------------------- | :----- |
-| EOSC service resource catalogue | [https://api.providers.sandbox.eosc-beyond.eu]() | [Link](https://github.com/madgeek-arc/resource-catalogue-docs)                                                               |             |                          | Athena |
-| Provider dashboard              | [https://providers.sandbox.eosc-beyond.eu]()     | [Link](https://wiki.eoscfuture.eu/display/PUBLIC/1.3+EOSC+Service+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |             |                          | Athena | -->
-
-
-| Registry                  |                                                                                                                  |
-| :------------------------ | :--------------------------------------------------------------------------------------------------------------- |
-| Service URL               | [https://api.providers.sandbox.eosc-beyond.eu](https://api.providers.sandbox.eosc-beyond.eu)                     |
-| Integration documentation | [https://github.com/madgeek-arc/resource-catalogue-docs](https://github.com/madgeek-arc/resource-catalogue-docs) |
-| User guides               |                                                                                                                  |
-| Technology documentation  |                                                                                                                  |
-| Owner                     | Athena                                                                                                           |
+| Registry                  |                                                                                                                                                  |
+| :------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Service URL               | [https://api.providers.sandbox.eosc-beyond.eu/api/swagger-ui/index.html](https://api.providers.sandbox.eosc-beyond.eu/api/swagger-ui/index.html) |
+| Integration documentation | [https://github.com/madgeek-arc/resource-catalogue-docs](https://github.com/madgeek-arc/resource-catalogue-docs)                                 |
+| User guides               |                                                                                                                                                  |
+| Technology documentation  |                                                                                                                                                  |
+| Owner                     | Athena                                                                                                                                           |
 
 
 | Provider dashboard        |                                                                                                                                                                   |
@@ -26,12 +20,12 @@
 | Owner                     | Athena                                                                                                                                                            |
 
 
-## EOSC research product catalogue
+## EOSC Research Product Catalogue
 
-| Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
-|:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
-| Knowledge graph |      [https://graph.openaire.eu]() | [Link](https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines) | | | OpenAIRE |
-| Research product provider dashboard    |[https://beta.provide.openaire.eu]() | [Link](https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines) | | | OpenAIRE |  
+| Service                             | URL                                  | Integration documentation                                                                                                             | User guides | Technology documentation | Owner    |
+| :---------------------------------- | :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ | :---------- | :----------------------- | :------- |
+| Knowledge graph                     | [https://graph.openaire.eu]()        | [Link](https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |             |                          | OpenAIRE |
+| Research product provider dashboard | [https://beta.provide.openaire.eu]() | [Link](https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |             |                          | OpenAIRE |
 
 ## EOSC Marketplace
 
@@ -45,9 +39,9 @@
 
 ## EOSC explore
 
-| Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
-|:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
-| Explore |        [https://beta.provide.openaire.eu]() | | | | OpenAIRE |
+| Service | URL                                  | Integration documentation | User guides | Technology documentation | Owner    |
+| :------ | :----------------------------------- | :------------------------ | :---------- | :----------------------- | :------- |
+| Explore | [https://beta.provide.openaire.eu]() |                           |             |                          | OpenAIRE |
 
 ## EOSC Resource Discovery Hub
 
