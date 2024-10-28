@@ -1,12 +1,21 @@
 # Monitoring
-## EOSC Monitoring service
-| Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
-|:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
-| Core monitoring service |  [https://core.sandbox.eosc-beyond.eu]() | [Link](https://zenodo.org/records/7118591#.YzQQjezP0UQ) | [Link](https://argoeu.github.io/argo-web-api/openapi/explore) |  [Link](https://argoeu.github.io/argo-monitoring/)   | GRNET |
 
+## EOSC Monitoring Service
+
+| Core Monitoring Service   |                                                         |
+| :------------------------ | :------------------------------------------------------ |
+| Service URL               | <https://core.sandbox.eosc-beyond.eu>                   |
+| Integration documentation | <https://zenodo.org/records/7118591#.YzQQjezP0UQ>       |
+| User guides               | <https://argoeu.github.io/argo-web-api/openapi/explore> |
+| Technology documentation  | <https://argoeu.github.io/argo-monitoring>              |
+| Owner                     | GRNET                                                   |
 
 ## EOSC exchange monitoring service
-| Service                         |  URL                            | Integration documentation | User guides | Technology documentation | Owner  |
-|:-------------------------------- |:------------------------------ |:--------------------------|:------------|:-------------------------|:-------|
-| Exchange  monitoring service |   [https://exchange.sandbox.eosc-beyond.eu]() | [Link](https://zenodo.org/records/7118591#.YzQQjezP0UQ) | [Link](https://argoeu.github.io/argo-web-api/openapi/explore) |  [Link](https://argoeu.github.io/argo-monitoring/) |  GRNET |
 
+| Core Monitoring Service   |                                                         |
+| :------------------------ | :------------------------------------------------------ |
+| Service URL               | <https://exchange.sandbox.eosc-beyond.eu>               |
+| Integration documentation | <https://zenodo.org/records/7118591#.YzQQjezP0UQ>       |
+| User guides               | <https://argoeu.github.io/argo-web-api/openapi/explore> |
+| Technology documentation  | <https://argoeu.github.io/argo-monitoring>              |
+| Owner                     | GRNET                                                   |
