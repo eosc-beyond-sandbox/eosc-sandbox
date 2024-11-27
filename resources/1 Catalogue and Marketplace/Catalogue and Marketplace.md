@@ -2,23 +2,29 @@
 
 ## EOSC Service Catalogue
 
-| Registry                  |                                                                                                                                                  |
-| :------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Service URL               | [https://api.providers.sandbox.eosc-beyond.eu/api/swagger-ui/index.html](https://api.providers.sandbox.eosc-beyond.eu/api/swagger-ui/index.html) |
-| Integration documentation | [https://github.com/madgeek-arc/resource-catalogue-docs](https://github.com/madgeek-arc/resource-catalogue-docs)                                 |
-| User guides               |                                                                                                                                                  |
-| Technology documentation  |                                                                                                                                                  |
-| Owner                     | Athena                                                                                                                                           |
+The EOSC Service Catalogue provides data and functionality to register, maintain, administer, and share resources onboarded by various providers. It also serves as the point of reference for all EOSC Core components that add value to this information, making the data and services searchable and accessible through various tools for both researchers and end users.
 
+EOSC Service Catalogue has two main components: Registry and Provider Dashboard.
 
-| Provider dashboard        |                                                                                                                                                                   |
+The Registry offers the underlying storage functionality and the interoperability tools for the programmatic access, registration, manage (CRUD) of providers, services, and catalogs. It also offers the necessary API functionality for the interoperability of service catalogs from individual providers or aggregators (e.g., thematic or regional catalogs).
+
+| Registry                  |                                                                          |
+| :------------------------ | :----------------------------------------------------------------------- |
+| Service URL               | <https://api.providers.sandbox.eosc-beyond.eu/api/swagger-ui/index.html> |
+| Integration documentation | <https://github.com/madgeek-arc/resource-catalogue-docs>                 |
+| User guides               |                                                                          |
+| Technology documentation  |                                                                          |
+| Owner                     | Athena                                                                   |
+
+The Providers Dashboard facilitates front-end functionality for registering providers and organizations that are eligible to publish their resources in the catalog. It offers features for onboarding and managing these resources effectively. Additionally, the dashboard provides representatives from provider organizations with a comprehensive view of their offerings, along with various usage statistics related to their resources. Moreover, it supports members of the onboarding team by providing tools to manage entries, oversee the onboarding process of providers, and audit the resources that have been onboarded.
+
+| Provider Dashboard        |                                                                                                                                                                   |
 | :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Service URL               | [https://providers.sandbox.eosc-beyond.eu](https://providers.sandbox.eosc-beyond.eu)                                                                              |
+| Service URL               | <https://providers.sandbox.eosc-beyond.eu>                                                                                                                        |
 | Integration documentation | [https://wiki.eoscfuture.eu/.../Guidelines](https://wiki.eoscfuture.eu/display/PUBLIC/1.3+EOSC+Service+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |
 | User guides               |                                                                                                                                                                   |
 | Technology documentation  |                                                                                                                                                                   |
 | Owner                     | Athena                                                                                                                                                            |
-
 
 ## EOSC Research Product Catalogue
 
@@ -29,13 +35,13 @@
 
 ## EOSC Marketplace
 
-| Marketplace               |                                                                                          |
-| :------------------------ | :--------------------------------------------------------------------------------------- |
-| Service URL               | [https://marketplace.sandbox.eosc-beyond.eu](https://marketplace.sandbox.eosc-beyond.eu) |
-| Integration documentation |                                                                                          |
-| User guides               |                                                                                          |
-| Technology documentation  |                                                                                          |
-| Owner                     | Cyfronet                                                                                 |
+| Marketplace               |                                              |
+| :------------------------ | :------------------------------------------- |
+| Service URL               | <https://marketplace.sandbox.eosc-beyond.eu> |
+| Integration documentation |                                              |
+| User guides               |                                              |
+| Technology documentation  |                                              |
+| Owner                     | Cyfronet                                     |
 
 ## EOSC explore
 
@@ -45,23 +51,23 @@
 
 ## EOSC Resource Discovery Hub
 
-| Marketplace               |                                                                                                        |
-| :------------------------ | :----------------------------------------------------------------------------------------------------- |
-| Search Service            | [https://search.marketplace.sandbox.eosc-beyond.eu](https://search.marketplace.sandbox.eosc-beyond.eu) |
-| Integration documentation |                                                                                                        |
-| User guides               |                                                                                                        |
-| Technology documentation  |                                                                                                        |
-| Owner                     | Cyfronet                                                                                               |
+| Marketplace               |                                                     |
+| :------------------------ | :-------------------------------------------------- |
+| Search Service            | <https://search.marketplace.sandbox.eosc-beyond.eu> |
+| Integration documentation |                                                     |
+| User guides               |                                                     |
+| Technology documentation  |                                                     |
+| Owner                     | Cyfronet                                            |
 
 ## EOSC User Dashboard
 
-| User Dashboard            |                                                                        |
-| :------------------------ | :--------------------------------------------------------------------- |
-| Service URL               | [https://my.sandbox.eosc-beyond.eu](https://my.sandbox.eosc-beyond.eu) |
-| Integration documentation |                                                                        |
-| User guides               |                                                                        |
-| Technology documentation  |                                                                        |
-| Owner                     | Cyfronet                                                               |
+| User Dashboard            |                                     |
+| :------------------------ | :---------------------------------- |
+| Service URL               | <https://my.sandbox.eosc-beyond.eu> |
+| Integration documentation |                                     |
+| User guides               |                                     |
+| Technology documentation  |                                     |
+| Owner                     | Cyfronet                            |
 
 ## EOSC Order Management
 
