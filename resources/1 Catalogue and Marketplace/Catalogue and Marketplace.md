@@ -28,10 +28,21 @@ The Providers Dashboard facilitates front-end functionality for registering prov
 
 ## EOSC Research Product Catalogue
 
-| Service                             | URL                                  | Integration documentation                                                                                                             | User guides | Technology documentation | Owner    |
-| :---------------------------------- | :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ | :---------- | :----------------------- | :------- |
-| Knowledge graph                     | [https://graph.openaire.eu]()        | [Link](https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |             |                          | OpenAIRE |
-| Research product provider dashboard | [https://beta.provide.openaire.eu]() | [Link](https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |             |                          | OpenAIRE |
+| Knowledge Graph           |                                                                                                                                                                            |
+| :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Service URL               | <https://graph.openaire.eu>                                                                                                                                                |
+| Integration documentation | [https://wiki.eoscfuture.eu/.../Guidelines](https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |
+| User guides               |                                                                                                                                                                            |
+| Technology documentation  |                                                                                                                                                                            |
+| Owner                     | OpenAIRE                                                                                                                                                                   |
+
+| Research Product Provider Dashboard |                                                                                                                                                                            |
+| :---------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Service URL                         | <https://beta.provide.openaire.eu>                                                                                                                                         |
+| Integration documentation           | [https://wiki.eoscfuture.eu/.../Guidelines](https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |
+| User guides                         |                                                                                                                                                                            |
+| Technology documentation            |                                                                                                                                                                            |
+| Owner                               | OpenAIRE                                                                                                                                                                   |
 
 ## EOSC Marketplace
 
