@@ -11,9 +11,8 @@ The Registry offers the underlying storage functionality and the interoperabilit
 | Registry                  |                                                                          |
 | :------------------------ | :----------------------------------------------------------------------- |
 | Service URL               | <https://api.providers.sandbox.eosc-beyond.eu/api/swagger-ui/index.html> |
-| Integration documentation | <https://github.com/madgeek-arc/resource-catalogue-docs>                 |
 | User guides               |                                                                          |
-| Technology documentation  |                                                                          |
+| Integration documentation | <https://github.com/madgeek-arc/resource-catalogue-docs>                 |
 | Owner                     | Athena                                                                   |
 
 The Providers Dashboard facilitates front-end functionality for registering providers and organizations that are eligible to publish their resources in the catalog. It offers features for onboarding and managing these resources effectively. Additionally, the dashboard provides representatives from provider organizations with a comprehensive view of their offerings, along with various usage statistics related to their resources. Moreover, it supports members of the onboarding team by providing tools to manage entries, oversee the onboarding process of providers, and audit the resources that have been onboarded.
@@ -21,9 +20,8 @@ The Providers Dashboard facilitates front-end functionality for registering prov
 | Provider Dashboard        |                                                                                                                                                                   |
 | :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Service URL               | <https://providers.sandbox.eosc-beyond.eu>                                                                                                                        |
-| Integration documentation | [https://wiki.eoscfuture.eu/.../Guidelines](https://wiki.eoscfuture.eu/display/PUBLIC/1.3+EOSC+Service+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |
 | User guides               |                                                                                                                                                                   |
-| Technology documentation  |                                                                                                                                                                   |
+| Integration documentation | [https://wiki.eoscfuture.eu/.../Guidelines](https://wiki.eoscfuture.eu/display/PUBLIC/1.3+EOSC+Service+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |
 | Owner                     | Athena                                                                                                                                                            |
 
 ## EOSC Research Product Catalogue
@@ -31,9 +29,8 @@ The Providers Dashboard facilitates front-end functionality for registering prov
 | Knowledge Graph           |                                                                                                                                                                            |
 | :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Service URL               | <https://graph.openaire.eu>                                                                                                                                                |
-| Integration documentation | [https://wiki.eoscfuture.eu/.../Guidelines](https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |
 | User guides               |                                                                                                                                                                            |
-| Technology documentation  |                                                                                                                                                                            |
+| Integration documentation | [https://wiki.eoscfuture.eu/.../Guidelines](https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |
 | Owner                     | OpenAIRE                                                                                                                                                                   |
 
 | Research Product Provider Dashboard |                                                                                                                                                                            |
@@ -41,18 +38,18 @@ The Providers Dashboard facilitates front-end functionality for registering prov
 | Service URL                         | <https://beta.provide.openaire.eu>                                                                                                                                         |
 | Integration documentation           | [https://wiki.eoscfuture.eu/.../Guidelines](https://wiki.eoscfuture.eu/display/PUBLIC/1.2+EOSC+Research+Product+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |
 | User guides                         |                                                                                                                                                                            |
-| Technology documentation            |                                                                                                                                                                            |
 | Owner                               | OpenAIRE                                                                                                                                                                   |
 
 ## EOSC Marketplace
 
-| Marketplace               |                                              |
-| :------------------------ | :------------------------------------------- |
-| Service URL               | <https://marketplace.sandbox.eosc-beyond.eu> |
-| Integration documentation |                                              |
-| User guides               |                                              |
-| Technology documentation  |                                              |
-| Owner                     | Cyfronet                                     |
+EOSC Beyond Marketplace is a tool where researchers can discover, order, and access the services, analytical tools, data management tools, storage, and computing resources they need for their work. It is an integrated platform that allows easy access to many services for various research domains alongside data and integrated data analytics tools. Furthermore, the Marketplace offers the opportunity to advertise services and resources from local, national, and international providers, like European e-Infrastructures and Research Infrastructures, with the aim of promoting access to a broader international user group.
+
+| Marketplace               |                                                                 |
+| :------------------------ | :-------------------------------------------------------------- |
+| Service URL               | <https://marketplace.sandbox.eosc-beyond.eu>                    |
+| User guides               | <https://marketplace.sandbox.eosc-beyond.eu/user_documentation> |
+| Integration documentation | <https://marketplace.docker-fid.grid.cyf-kr.edu.pl/api_docs>    |
+| Owner                     | Cyfronet                                                        |
 
 ## EOSC explore
 
@@ -65,9 +62,8 @@ The Providers Dashboard facilitates front-end functionality for registering prov
 | Marketplace               |                                                     |
 | :------------------------ | :-------------------------------------------------- |
 | Search Service            | <https://search.marketplace.sandbox.eosc-beyond.eu> |
-| Integration documentation |                                                     |
 | User guides               |                                                     |
-| Technology documentation  |                                                     |
+| Integration documentation |                                                     |
 | Owner                     | Cyfronet                                            |
 
 ## EOSC User Dashboard
@@ -75,17 +71,14 @@ The Providers Dashboard facilitates front-end functionality for registering prov
 | User Dashboard            |                                     |
 | :------------------------ | :---------------------------------- |
 | Service URL               | <https://my.sandbox.eosc-beyond.eu> |
-| Integration documentation |                                     |
 | User guides               |                                     |
-| Technology documentation  |                                     |
+| Integration documentation |                                     |
 | Owner                     | Cyfronet                            |
 
 ## EOSC Order Management
 
-| Order Handling System     |                                                                                                                                                            |
-| :------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Service URL               | [Swagger UI](https://marketplace.sandbox.eosc-beyond.eu/api_docs/swagger/index.html?urls.primaryName=EOSC%20Marketplace%20Ordering%20API)                  |
-| Integration documentation | [https://wiki.eoscfuture.eu/.../Guidelines](https://wiki.eoscfuture.eu/display/PUBLIC/5.+Order+Management%3A+Architecture+and+Interoperability+Guidelines) |
-| User guides               |                                                                                                                                                            |
-| Technology documentation  |                                                                                                                                                            |
-| Owner                     | Cyfronet                                                                                                                                                   |
+| Order Handling System     |                                                                                                                                                            |             |   |
+| :------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | - |
+| Service URL               | [Swagger UI](https://marketplace.sandbox.eosc-beyond.eu/api_docs/swagger/index.html?urls.primaryName=EOSC%20Marketplace%20Ordering%20API)                  | User guides |   |
+| Integration documentation | [https://wiki.eoscfuture.eu/.../Guidelines](https://wiki.eoscfuture.eu/display/PUBLIC/5.+Order+Management%3A+Architecture+and+Interoperability+Guidelines) |             |   |
+| Owner                     | Cyfronet                                                                                                                                                   |             |   |
