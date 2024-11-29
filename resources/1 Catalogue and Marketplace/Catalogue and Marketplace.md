@@ -64,12 +64,14 @@ EOSC Explore is one of the key components of the EOSC Beyond initiative, providi
 
 ## EOSC Resource Discovery Hub
 
-| Marketplace               |                                                     |
-| :------------------------ | :-------------------------------------------------- |
-| Search Service            | <https://search.marketplace.sandbox.eosc-beyond.eu> |
-| User guides               |                                                     |
-| Integration documentation |                                                     |
-| Owner                     | Cyfronet                                            |
+The EOSC Resource Discovery Hub provides a research-focused tool enabling users to effectively locate, manage, and reuse a range of resources within the EOSC ecosystem. Users can access highly relevant content tailored to their needs through an intuitive interface and advanced filtering options, creating a successful research experience that aligns with their workflows and expectations.
+
+| Search Service            |                                                                 |
+| :------------------------ | :-------------------------------------------------------------- |
+| Service URL               | <https://search.marketplace.sandbox.eosc-beyond.eu/>            |
+| User guides               | <https://marketplace.sandbox.eosc-beyond.eu/user_documentation> |
+| Integration documentation |                                                                 |
+| Owner                     | Cyfronet                                                        |
 
 ## EOSC User Dashboard
 
