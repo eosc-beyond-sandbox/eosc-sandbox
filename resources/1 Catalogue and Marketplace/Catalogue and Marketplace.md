@@ -94,3 +94,14 @@ EOSC Order Management is a set of services, processes, and guidelines designed t
 | User guides               | <https://marketplace.sandbox.eosc-beyond.eu/api_docs>                                |
 | Integration documentation |                                                                                      |
 | Owner                     | Cyfronet                                                                             |
+
+## EOSC PID Service
+
+The Persistent Identifiers (PID) Service provides a reliable infrastructure for managing and maintaining persistent identifiers using B2HANDLE technology.
+
+| PID Service               |                                           |
+| :------------------------ | :---------------------------------------- |
+| Service URL               | <https://api.pids.sandbox.eosc-beyond.eu> |
+| User guides               | <https://doc.pidconsortium.net>           |
+| Integration documentation |                                           |
+| Owner                     | GRNET                                     |
