@@ -55,12 +55,12 @@ EOSC Beyond Marketplace is a tool where researchers can discover, order, and acc
 
 EOSC Explore is one of the key components of the EOSC Beyond initiative, providing researchers with an intuitive platform to discover, access, and integrate a wide range of scientific resources from multiple EOSC Nodes. By leveraging the EOSC Interoperability Framework, EOSC Explore ensures seamless cross-domain access and compliance with FAIR data principles, empowering researchers to compose scientific workflows, foster collaboration, and accelerate scientific discoveries within a federated Open Science ecosystem.
 
-| Explore                   |                                |
-| :------------------------ | :----------------------------- |
-| Service URL               | <https://explore.openaire.eu/> |
-| User guides               |                                |
-| Integration documentation |                                |
-| Owner                     | OpenAIRE                       |
+| Explore                   |                               |
+| :------------------------ | :---------------------------- |
+| Service URL               | <https://explore.openaire.eu> |
+| User guides               |                               |
+| Integration documentation |                               |
+| Owner                     | OpenAIRE                      |
 
 ## EOSC Resource Discovery Hub
 
@@ -68,12 +68,14 @@ The EOSC Resource Discovery Hub provides a research-focused tool enabling users 
 
 | Search Service            |                                                                 |
 | :------------------------ | :-------------------------------------------------------------- |
-| Service URL               | <https://search.marketplace.sandbox.eosc-beyond.eu/>            |
+| Service URL               | <https://search.marketplace.sandbox.eosc-beyond.eu>             |
 | User guides               | <https://marketplace.sandbox.eosc-beyond.eu/user_documentation> |
 | Integration documentation |                                                                 |
 | Owner                     | Cyfronet                                                        |
 
 ## EOSC User Dashboard
+
+EOSC User Dashboard is an AI-based - personalized to some extent - user environment to display users' personal website space. Each user can define and design his scientific profile and - based on it - receive resources tailored to their needs. The dashboard helps them find resources that match their specific fields of interest, making it more straightforward to explore the EOSC Resource Discovery Hub. It consists of an informative landing page and a personal subpage available only for authenticated users.
 
 | User Dashboard            |                                     |
 | :------------------------ | :---------------------------------- |
