@@ -18,7 +18,7 @@ The EOSC Accounting for Services is a comprehensive platform designed to streaml
 
 | Accounting API            |                                                            |
 | :------------------------ | :--------------------------------------------------------- |
-| Service URL               | <https://ui.acc.sandbox.eosc-beyond.eu>                    |
+| Service URL               | <https://api.acc.sandbox.eosc-beyond.eu/>                  |
 | Integration documentation |                                                            |
 | User guides               | <https://argoeu.github.io/argo-accounting/openapi/explore> |
 | Owner                     | GRNET                                                      |
