@@ -51,11 +51,16 @@ EOSC Beyond Marketplace is a tool where researchers can discover, order, and acc
 | Integration documentation | <https://marketplace.docker-fid.grid.cyf-kr.edu.pl/api_docs>    |
 | Owner                     | Cyfronet                                                        |
 
-## EOSC explore
+## EOSC Explore
 
-| Service | URL                                  | Integration documentation | User guides | Technology documentation | Owner    |
-| :------ | :----------------------------------- | :------------------------ | :---------- | :----------------------- | :------- |
-| Explore | [https://beta.provide.openaire.eu]() |                           |             |                          | OpenAIRE |
+EOSC Explore is one of the key components of the EOSC Beyond initiative, providing researchers with an intuitive platform to discover, access, and integrate a wide range of scientific resources from multiple EOSC Nodes. By leveraging the EOSC Interoperability Framework, EOSC Explore ensures seamless cross-domain access and compliance with FAIR data principles, empowering researchers to compose scientific workflows, foster collaboration, and accelerate scientific discoveries within a federated Open Science ecosystem.
+
+| Explore                   |                                |
+| :------------------------ | :----------------------------- |
+| Service URL               | <https://explore.openaire.eu/> |
+| User guides               |                                |
+| Integration documentation |                                |
+| Owner                     | OpenAIRE                       |
 
 ## EOSC Resource Discovery Hub
 
