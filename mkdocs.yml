@@ -32,6 +32,6 @@ extra_css:
   - stylesheets/extra.css
 nav:
   - Home: index.md
-  - EOSC architecture:
-    - EOSC Architecture/EOSC Architecture.md
+  - EOSC Architecture: EOSC Architecture/EOSC Architecture.md
+  - Pilot Node: Pilot Node/Pilot Node.md
 copyright: EOSC Beyond is funded by the European Union Grant Agreement Number 101131875
