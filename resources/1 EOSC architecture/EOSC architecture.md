@@ -1,0 +1,3 @@
+The **European Open Science Cloud (EOSC)** is a **federated system** designed to enable seamless sharing, discovery, and access to research resources across Europe. It consists of interconnected **EOSC Nodes**, which can be national, regional, or thematic infrastructures that provide services, datasets, and computational resources to the research community.
+
+At the core of the EOSC architecture are the **EOSC Federating Capabilities**, a set of key functionalities that allow Nodes to collaborate and offer integrated services. These currently include:
