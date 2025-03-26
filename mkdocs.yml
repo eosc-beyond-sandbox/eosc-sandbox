@@ -34,4 +34,6 @@ nav:
   - Home: index.md
   - EOSC Architecture: EOSC Architecture/EOSC Architecture.md
   - Pilot Node: Pilot Node/Pilot Node.md
+  - Service Provider: Service Provider/Service Provider.md
+    - Onboarding: Service Provider/Onboarding.md
 copyright: EOSC Beyond is funded by the European Union Grant Agreement Number 101131875
