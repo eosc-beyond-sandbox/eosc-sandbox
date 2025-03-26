@@ -33,10 +33,16 @@ extra_css:
 nav:
   - EOSC Architecture: EOSC Architecture/EOSC Architecture.md
   - Pilot Node: Pilot Node/Pilot Node.md
-  - Service Provider: 
+  - Service Provider:
     - Service Provider/Service Provider.md
     - Onboarding: Service Provider/Onboarding.md
-  - Service Portfolio: 
+  - Service Portfolio:
     - Service Portfolio/Service Portfolio.md
     - Catalogue and Marketplace: Service Portfolio/Catalogue and Marketplace/Catalogue and Marketplace.md
+    - Monitoring: Service Portfolio/Monitoring/Monitoring.md
+    - Accounting: Service Portfolio/Accounting/Accounting.md
+    - AAI: Service Portfolio/AAI/AAI.md
+    - Messaging: Service Portfolio/Messaging/Messaging.md
+    - Helpdesk: Service Portfolio/Helpdesk/Helpdesk.md
+    - Execution Framework: Service Portfolio/Execution Framework/Execution Framework.md
 copyright: EOSC Beyond is funded by the European Union Grant Agreement Number 101131875
