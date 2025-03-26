@@ -8,6 +8,7 @@ theme:
   custom_dir: resources/overrides
   features:
     - navigation.footer
+    - navigation.sections
     # - navigation.tabs
     # - navigation.tabs.sticky
 markdown_extensions:
