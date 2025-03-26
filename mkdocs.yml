@@ -9,7 +9,6 @@ theme:
   features:
     - navigation.footer
     - navigation.indexes
-    - navigation.sections
     # - navigation.tabs
     # - navigation.tabs.sticky
 markdown_extensions:
@@ -36,12 +35,12 @@ nav:
   - EOSC Architecture: 
     - EOSC Architecture/index.md
   - Pilot Node: 
-    - Pilot Node/Pilot Node.md
+    - Pilot Node/index.md
   - Service Provider:
     - Service Provider/index.md
     - Onboarding: Service Provider/Onboarding.md
   - Service Portfolio:
-    - Service Portfolio/Service Portfolio.md
+    - Service Portfolio/index.md
     - Catalogue and Marketplace: Service Portfolio/Catalogue and Marketplace/Catalogue and Marketplace.md
     - Monitoring: Service Portfolio/Monitoring/Monitoring.md
     - Accounting: Service Portfolio/Accounting/Accounting.md
