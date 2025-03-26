@@ -31,6 +31,6 @@ plugins:
 extra_css:
   - stylesheets/extra.css
 nav:
-  - Setup:
+  - EOSC architecture:
     - resources/EOSC architecture/EOSC architecture.md
 copyright: EOSC Beyond is funded by the European Union Grant Agreement Number 101131875
