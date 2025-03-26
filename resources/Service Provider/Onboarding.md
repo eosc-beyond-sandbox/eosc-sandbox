@@ -23,3 +23,9 @@ The EOSC architecture has four main parts: 
 EOSC strives to provide researchers with a wide range of high-quality, interoperable research services, tools and data that will improve researchers’ productivity and enable excellent research. The EOSC Rules of Participation were developed to provide general guidance about how to achieve these objectives.
 
 The EOSC Future project, building on work and practices from predecessor projects (including EOSC Hub, EOSC Enhance, OpenAIRE), has translated the general guidance of the Rules of Participation into specific criteria to be used with Providers (referred to as ‘you’ and ‘your’ in the points below).
+
+### Legal accountability
+
+Legally accountable for the operation of the service or the supply of the research asset.  Your organization must either be a legal entity itself or must identify a legal entity of which you are a part or with which you are affiliated, which entity will take legal responsibility for the resources being onboarded to EOSC.  If your organization is not a legal entity itself, the (separate) legal entity you identify is called the ‘hosting legal entity’ and must first be onboarded as an EOSC Provider in its own right before you or your resources can themselves be onboarded.
+
+

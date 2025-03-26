@@ -34,11 +34,11 @@ To start the registration process, access the Core Service Registry from your br
 
 Unless you have an active session, you will need to select **"Login"** to authenticate.
 
-![Core Service Registry - Login](images/core-service-registry-login.png)
+![Core Service Registry - Login](core-service-registry-login.png)
 
 After logging into the portal, navigate to **"Manage Services"** and select **"New Service"** to enter the registration form.
 
-![Core Service Registry - Registering new service](images/core-service-registry-new-service.png)
+![Core Service Registry - Registering new service](core-service-registry-new-service.png)
 
 ### Content of the form
 
@@ -53,7 +53,7 @@ After logging into the portal, navigate to **"Manage Services"** and select **"N
 - **Service Website URL** - The URL of the website or landing page for the service.
 - **Description** - Human-readable text description of the service.
 
-![Core Service Registry - General service info](images/core-service-registry-service-general-info.png)
+![Core Service Registry - General service info](core-service-registry-service-general-info.png)
 
 #### Contact Information
 
@@ -64,7 +64,7 @@ Email addresses for administrative, security, support, and technical contacts or
 - **Support Contact** - The email address(es) of support/helpdesk contacts
 - **Technical Contact** - The email address(es) of technical contact(s)
 
-![Core Service Registry - Service contacts](images/core-service-registry-service-contacts.png)
+![Core Service Registry - Service contacts](core-service-registry-service-contacts.png)
 
 #### Service Provider Policies
 
@@ -82,7 +82,7 @@ Links to documents with service policies and compliance with mandatory policies 
 - **Redirect URI(s)** - Specify OIDC redirect URIs for your client. _Wildcards are not supported._
 - **Scope(s)** - Define one or more client scopes.
 
-![Core Service Registry - OIDC service](images/core-service-registry-service-oidc.png)
+![Core Service Registry - OIDC service](core-service-registry-service-oidc.png)
 
 - **Grant Types** - Choose OAuth grant type(s). Default is Authorization Code, suitable for both confidential and public clients.
 - **Token Endpoint Authorization Method** - Select authentication method. Use No authentication for public clients.
@@ -91,7 +91,7 @@ Links to documents with service policies and compliance with mandatory policies 
 - **Refresh Tokens** - Whether refresh tokens will be issued for your client.
 - **PKCE** - Specify if PKCE will be used. Recommended for Authorization Code Flow and mandatory for public clients.
 
-![Core Service Registry - OIDC service (2)](images/core-service-registry-service-oidc2.png)
+![Core Service Registry - OIDC service (2)](core-service-registry-service-oidc2.png)
 
 **Details for SAML based services**
 
@@ -99,7 +99,7 @@ Links to documents with service policies and compliance with mandatory policies 
 - **Metadata URI** - Specify a publicly accessible URI serving the metadata for your SAML SP.
 - **Requested Attributes** - Specify the attributes requested by your SAML SP.
 
-![Core Service Registry - SAML service](images/core-service-registry-service-saml.png)
+![Core Service Registry - SAML service](core-service-registry-service-saml.png)
 
 ### Registration Request Submission
 
@@ -109,4 +109,4 @@ After clicking **"Submit"**, you'll receive a confirmation email for your regist
 
 Services are owned by user groups with regular members and group managers. All members can view and submit reconfiguration requests to the service. Group managers have additional privileges, such as inviting/removing members to/from the owners group. When a user requests to register a service, an owners group is automatically created with the requester set as the group manager. To view/manage the owners group, select **"Manage Owners"**.
 
-![Core Service Registry - Service owners](images/core-service-registry-service-owners.png)
+![Core Service Registry - Service owners](core-service-registry-service-owners.png)
