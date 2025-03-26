@@ -33,8 +33,10 @@ plugins:
 extra_css:
   - stylesheets/extra.css
 nav:
-  - EOSC Architecture: EOSC Architecture/index.md
-  - Pilot Node: Pilot Node/Pilot Node.md
+  - EOSC Architecture: 
+    - EOSC Architecture/index.md
+  - Pilot Node: 
+    - Pilot Node/Pilot Node.md
   - Service Provider:
     - Service Provider/Service Provider.md
     - Onboarding: Service Provider/Onboarding.md
