@@ -1,4 +1,4 @@
-site_name: EOSC Sandbox
+site_name: EOSC Documentation Hub
 docs_dir: resources
 theme:
   name: material
@@ -30,4 +30,7 @@ plugins:
   - tags
 extra_css:
   - stylesheets/extra.css
+nav:
+  - Setup:
+    - resources/EOSC architecture/EOSC architecture.md
 copyright: EOSC Beyond is funded by the European Union Grant Agreement Number 101131875
