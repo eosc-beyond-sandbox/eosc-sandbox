@@ -9,6 +9,7 @@ theme:
   features:
     - navigation.footer
     - navigation.indexes
+    - navigation.sections
     # - navigation.tabs
     # - navigation.tabs.sticky
 markdown_extensions:
