@@ -33,5 +33,5 @@ extra_css:
 nav:
   - Home: index.md
   - EOSC architecture:
-    - EOSC architecture/EOSC architecture.md
+    - EOSC Architecture/EOSC Architecture.md
 copyright: EOSC Beyond is funded by the European Union Grant Agreement Number 101131875
