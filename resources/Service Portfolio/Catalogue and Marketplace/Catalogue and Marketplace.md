@@ -4,25 +4,22 @@
 
 The EOSC Service Catalogue provides data and functionality to register, maintain, administer, and share resources onboarded by various providers. It also serves as the point of reference for all EOSC Core components that add value to this information, making the data and services searchable and accessible through various tools for both researchers and end users.
 
-EOSC Service Catalogue has two main components: Registry and Provider Dashboard.
+EOSC Service Catalogue has two main components: **Registry** and **Provider Dashboard**.
 
-The Registry offers the underlying storage functionality and the interoperability tools for the programmatic access, registration, manage (CRUD) of providers, services, and catalogs. It also offers the necessary API functionality for the interoperability of service catalogs from individual providers or aggregators (e.g., thematic or regional catalogs).
+The **Registry** offers the underlying storage functionality and the interoperability tools for the programmatic access, registration, manage (CRUD) of providers, services, and catalogs. It also offers the necessary API functionality for the interoperability of service catalogs from individual providers or aggregators (e.g., thematic or regional catalogs).
 
-| Registry                  |                                                                          |
-| :------------------------ | :----------------------------------------------------------------------- |
-| Service URL               | <https://api.providers.sandbox.eosc-beyond.eu/api/swagger-ui/index.html> |
-| User guides               |                                                                          |
-| Integration documentation | <https://github.com/madgeek-arc/resource-catalogue-docs>                 |
-| Owner                     | Athena                                                                   |
+| Registry            |                                                          |
+| :------------------ | :------------------------------------------------------- |
+| Service URL         | <https://providers.sandbox.eosc-beyond.eu/>              |
+| User guides         | <https://zenodo.org/records/8333871>                     |
+| Software repository | <https://github.com/madgeek-arc/resource-catalogue-docs> |
 
-The Providers Dashboard facilitates front-end functionality for registering providers and organizations that are eligible to publish their resources in the catalog. It offers features for onboarding and managing these resources effectively. Additionally, the dashboard provides representatives from provider organizations with a comprehensive view of their offerings, along with various usage statistics related to their resources. Moreover, it supports members of the onboarding team by providing tools to manage entries, oversee the onboarding process of providers, and audit the resources that have been onboarded.
+The **Providers Dashboard** facilitates front-end functionality for registering providers and organizations that are eligible to publish their resources in the catalog. It offers features for onboarding and managing these resources effectively. Additionally, the dashboard provides representatives from provider organizations with a comprehensive view of their offerings, along with various usage statistics related to their resources. Moreover, it supports members of the onboarding team by providing tools to manage entries, oversee the onboarding process of providers, and audit the resources that have been onboarded.
 
-| Provider Dashboard        |                                                                                                                                                                   |
-| :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Service URL               | <https://providers.sandbox.eosc-beyond.eu>                                                                                                                        |
-| User guides               |                                                                                                                                                                   |
-| Integration documentation | [https://wiki.eoscfuture.eu/.../Guidelines](https://wiki.eoscfuture.eu/display/PUBLIC/1.3+EOSC+Service+Catalogue%3A+Architecture+and+Interoperability+Guidelines) |
-| Owner                     | Athena                                                                                                                                                            |
+| Provider Dashboard |                                             |
+| :----------------- | :------------------------------------------ |
+| Service URL        | <https://providers.sandbox.eosc-beyond.eu/> |
+| User guides        | <https://zenodo.org/records/8333871>        |
 
 ## EOSC Research Product Catalogue
 
