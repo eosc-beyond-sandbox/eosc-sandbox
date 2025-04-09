@@ -43,6 +43,7 @@ This information must follow the EOSC Profiles, which are metadata standards use
 Once the necessary information has been collected, EOSC Providers can use two methods to submit information for inclusion in the EOSC Catalogue and Marketplace:
 - Use the EOSC Service Providers Dashboard
 - Use API interfaces for EOSC
+
 Where appropriate in the instructions below, the possibilities for using either the Service Providers Dashboard or the APIs are described in more detail. 
 Note that the API allows information about multiple records (e.g. EOSC Resources) to be submitted or updated at a time, while the Service Providers Dashboard requires records to be submitted or updated one at a time.  To use the API, the Provider’s Representative needs to use the AAI of the Service Providers Dashboard to retrieve a new API token. (Consult https://providers.eosc-portal.eu/developers for more on the API Interfaces.)
 
