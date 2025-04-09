@@ -1,4 +1,4 @@
-# END-USERS
+# END USER
 The EOSC Innovation Sandbox offers end-users a secure and controlled environment to explore, test, and interact with EOSC services and resources before they are deployed in a live setting. This space is particularly valuable for researchers and developers looking to validate new tools, experiment with data integrations, and simulate various research scenarios without impacting production systems. By providing early access to innovative features and experimental services, the sandbox empowers users to familiarize themselves with the EOSC ecosystem, optimize workflows, and provide valuable feedback that shapes the future development of EOSC services.
 
 ## Infrastructure Access
