@@ -42,11 +42,16 @@ nav:
     - Onboarding: Service Provider/Onboarding.md
   - Service Portfolio:
     - Service Portfolio/index.md
-    - Catalogue and Marketplace: Service Portfolio/Catalogue and Marketplace/Catalogue and Marketplace.md
+    - AAI: Service Portfolio/AAI/AAI.md
+    - Accounting: Service Portfolio/Accounting/Accounting.md
+    - Execution Framework: Service Portfolio/Execution Framework/Execution Framework.md
+    - Helpdesk: Service Portfolio/Helpdesk/Helpdesk.md
+    - Integration Suite: Service Portfolio/Integration Suite/Integration Suite.md
+    - Messaging: Service Portfolio/Messaging/Messaging.md
     - Monitoring: Service Portfolio/Monitoring/Monitoring.md
     - Accounting: Service Portfolio/Accounting/Accounting.md
-    - AAI: Service Portfolio/AAI/AAI.md
-    - Messaging: Service Portfolio/Messaging/Messaging.md
-    - Helpdesk: Service Portfolio/Helpdesk/Helpdesk.md
-    - Execution Framework: Service Portfolio/Execution Framework/Execution Framework.md
+    - PID: Service Portfolio/PID/PID.md
+    - Resource Catalogue: Service Portfolio/Resource Catalogue/Resource Catalogue.md
+    - Order Management: Service Portfolio/Order Management/Order Management.md 
+    - User Space: Service Portfolio/User Space/User Space.md
 copyright: EOSC Beyond is funded by the European Union Grant Agreement Number 101131875
