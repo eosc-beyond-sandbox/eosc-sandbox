@@ -39,7 +39,8 @@ nav:
     - Pilot Node/index.md
   - Service Provider:
     - Service Provider/index.md
-    - Onboarding: Service Provider/Onboarding.md
+  - End Users:
+    - End User/index.md
   - Service Portfolio:
     - Service Portfolio/index.md
     - AAI: Service Portfolio/AAI/AAI.md
