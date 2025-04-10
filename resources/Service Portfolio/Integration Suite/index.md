@@ -1,3 +1,3 @@
-# Integration Suite
+# EOSC Beyond Integration Suite
 
 Soon Available
