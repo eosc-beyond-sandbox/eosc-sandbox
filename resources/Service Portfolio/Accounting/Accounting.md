@@ -1,8 +1,8 @@
 # Accounting
 
-## EOSC Accounting for Research Products
+## EOSC Beyond Accounting for Research Products
 
-## EOSC Accounting for Services
+## EOSC Beyond Accounting for Services
 
 The EOSC Accounting for Services is a comprehensive platform designed to streamline the collection, aggregation, and exchange of metrics across various infrastructures, providers, and projects. The service comprises two main components:
 
