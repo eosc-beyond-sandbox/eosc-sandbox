@@ -1,6 +1,6 @@
 # AAI
 
-## EOSC Core Infrastructure Proxy
+## EOSC Beyond Core Infrastructure Proxy
 
 The EOSC Core Infrastructure Proxy is responsible for connecting EOSC Core Services. It is composed of the following components: 
 
@@ -16,7 +16,7 @@ The EOSC Core Infrastructure Proxy is responsible for connecting EOSC Core Servi
 | Technology documentation  |                                                                                                                                                          |
 | Owner                     | GRNET                                                                                                                                                    |
 
-## EOSC Identity Hub
+## EOSC Beyond Identity Hub
 
 The Identity Hub is a multi-protocol authentication proxy supporting OAuth2, OpenID Connect, and SAML2, responsible for user authentication and providing consistent user information to services in the EOSC Federated AAI. It is composed of the following components:
 
@@ -34,7 +34,7 @@ The Identity Hub is a multi-protocol authentication proxy supporting OAuth2, Ope
 | Technology documentation  |                                                   |
 | Owner                     | GEANT                                             |
 
-## EOSC Federated AAI Connector
+## EOSC Beyond Federated AAI Connector
 
 The EOSC Federated AAI Connector is responsible for registering, maintaining, and publishing the trust anchors and the associated metadata for all the entities in the EOSC Node, and provides common horizontal functionalities. It fetches, validates, and stores information about all connected services and identity providers. It exposes an MDQ API.
 
