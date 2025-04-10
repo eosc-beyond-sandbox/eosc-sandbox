@@ -1,6 +1,6 @@
-# EOSC Resource Catalogue
+# EOSC Beyond Resource Catalogue
 
-## EOSC Service Catalogue
+## EOSC Beyond Service Catalogue
 
 The EOSC Service Catalogue provides data and functionality to register, maintain, administer, and share resources onboarded by various providers. It also serves as the point of reference for all EOSC Core components that add value to this information, making the data and services searchable and accessible through various tools for both researchers and end users.
 
@@ -21,7 +21,7 @@ The **Providers Dashboard** facilitates front-end functionality for registering 
 | Service URL        | <https://providers.sandbox.eosc-beyond.eu/> |
 | User guides        | <https://zenodo.org/records/8333871>        |
 
-## EOSC Research Product Catalogue
+## EOSC Beyond Research Product Catalogue
 
 | Knowledge Graph           |                                                                                                                                                                            |
 | :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
