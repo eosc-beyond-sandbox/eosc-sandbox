@@ -1,4 +1,4 @@
-## EOSC PID Service
+## EOSC Beyond PID Service
 
 The Persistent Identifiers (PID) Service offers a robust, reliable solution for the long-term identification and management of digital objects underpinned by leading European data centers and cutting-edge technology. Here are the core value propositions of the PID Service:
 
