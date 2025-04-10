@@ -1,6 +1,6 @@
 # Monitoring
 
-## EOSC Monitoring Service
+## EOSC Beyond Monitoring Service
 
 The EOSC Monitoring Service provides insights into the availability and reliability of EOSC services across both the Core and Exchange layers. This service comprises two components: the Core Monitoring Service, which oversees Core services, and the Exchange Monitoring Service, which manages Exchange services. The table below summarizes the links to the service endpoints and documentation for each component.
 
