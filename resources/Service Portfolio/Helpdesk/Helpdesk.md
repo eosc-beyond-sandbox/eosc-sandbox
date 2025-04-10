@@ -1,6 +1,6 @@
 # Helpdesk
 
-## EOSC Helpdesk
+## EOSC Beyond Helpdesk
 
 | Helpdesk                  |                                                   |
 | :------------------------ | :------------------------------------------------ |
