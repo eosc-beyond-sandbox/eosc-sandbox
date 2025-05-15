@@ -1,4 +1,4 @@
-# EOSC Beyond Front End
+# EOSC Beyond Frontend
 
 EOSC Beyond Front End is a tool where researchers can discover, order, and access the services, analytical tools, data management tools, storage, and computing resources they need for their work. It is an integrated platform that allows easy access to many services for various research domains alongside data and integrated data analytics tools. Furthermore, the Marketplace offers the opportunity to advertise services and resources from local, national, and international providers, like European e-Infrastructures and Research Infrastructures, with the aim of promoting access to a broader international user group.
 
