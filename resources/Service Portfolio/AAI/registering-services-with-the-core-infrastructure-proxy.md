@@ -11,8 +11,8 @@ This page explains how to register a service with the Core Infrastructure Proxy.
 
 **Environment** | **Core Infrastructure Proxy OIDC/OAuth2 Issuer**
 --- | ---
-**Pre-production** | `https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core`
-**Staging** | _TBD_
+**Preproduction** | `https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core`
+**Integration** | `https://core-proxy.staging.sandbox.eosc-beyond.eu/auth/realms/core`
 
 The Core Infrastructure Proxy supports OpenID Connect Discovery. OpenID Connect client libraries that support OpenID Connect Discovery will be able to find and configure the appropriate endpoints from the Core Infrastructure Proxy discovery endpoint.
 
@@ -24,8 +24,8 @@ If the OpenID Connect client library your service is using does not support Open
 
 **Environment** | **Core Infrastructure Proxy SAML 2.0 Identity Provider Entity ID** | **SAML 2.0 Identity Provider Metadata URL**
 --- | --- | ---
-**Pre-poduction** | `https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core` | [https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core/protocol/saml/descriptor](https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core/protocol/saml/descriptor)
-**Staging** | _TBD_ | _TBD_
+**Preproduction** | `https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core` | [https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core/protocol/saml/descriptor](https://core-proxy.sandbox.eosc-beyond.eu/auth/realms/core/protocol/saml/descriptor)
+**Integration** | `https://core-proxy.staging.sandbox.eosc-beyond.eu/auth/realms/core` | [https://core-proxy.staging.sandbox.eosc-beyond.eu/auth/realms/core/protocol/saml/descriptor](https://core-proxy.staging.sandbox.eosc-beyond.eu/auth/realms/core/protocol/saml/descriptor)
 
 ## Registration
 
@@ -48,7 +48,7 @@ After logging into the portal, navigate to **"Manage Services"** and select **"N
 #### General Service Information
 
 - **Service name** - The name of the service. It will be displayed to end users.
-- **Integration Environment** - The target integration environment: Pre-production
+- **Integration Environment** - The target integration environment: **Preproduction** or **Integration**
 - **Logo** - A URL with the logo of the service
 - **Service Website URL** - The URL of the website or landing page for the service.
 - **Description** - Human-readable text description of the service.
@@ -84,12 +84,14 @@ Links to documents with service policies and compliance with mandatory policies 
 
 ![Core Service Registry - OIDC service](images/core-service-registry-service-oidc.png)
 
-- **Grant Types** - Choose OAuth grant type(s). Default is Authorization Code, suitable for both confidential and public clients.
-- **Token Endpoint Authorization Method** - Select authentication method. Use No authentication for public clients.
+- **Grant Types** - Choose OAuth grant type(s).
+  - Default is **Authorization Code**, suitable for both confidential and public clients.
+  - Select **Client Credentials** if you need to use the [client credentials grant](https://oauth.net/2/grant-types/client-credentials/) to obtain access tokens on behalf of a service (service account). Do not combine Client Credentials with other grant types.
+- **Token Endpoint Authorization Method** - Select authentication method. Use **No authentication** for public clients.
 - **Introspection** - Whether the client is allowed to perform OAuth 2.0 Token Introspection. Disabled for public clients.
 - **Client secret** - Required for confidential clients.
 - **Refresh Tokens** - Whether refresh tokens will be issued for your client.
-- **PKCE** - Specify if PKCE will be used. Recommended for Authorization Code Flow and mandatory for public clients.
+- **PKCE** - Specify if [Proof Key for Code Exchange - PCKCE](https://oauth.net/2/grant-types/client-credentials/) will be used. Recommended for Authorization Code Flow and mandatory for public clients.
 
 ![Core Service Registry - OIDC service (2)](images/core-service-registry-service-oidc2.png)
 
