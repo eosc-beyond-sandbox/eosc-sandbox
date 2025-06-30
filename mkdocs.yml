@@ -56,6 +56,6 @@ nav:
     - Order Management: Service Portfolio/Order Management/Order Management.md 
     - Frontend: Service Portfolio/User Space/User Space.md
   - Adapters:
-    - Catalogue Adapters: Adapters/Research Product Catalogue/Catalogue.md
-    - Accounting Adapters: Adapters/Accounting/Accounting.md
+    - Catalogue Adapters: resources/Adapters/Research Product Catalogue/Catalogue.md
+    - Accounting Adapters: resources/Adapters/Accounting/Accounting.md
 copyright: EOSC Beyond is funded by the European Union Grant Agreement Number 101131875
