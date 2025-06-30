@@ -57,10 +57,10 @@ nav:
     - Frontend: Service Portfolio/User Space/User Space.md
   - Adapters:
     - Catalogue Adapters: Adapters/Research Product Catalogue/Catalogue.md
-    - Accounting Adapters: resources/Adapters/Accounting/Accounting.md
-    - Horizontal Adapters: resources/Adapters/Horizontal/Horizontal.md
-    - PID Adapters: resources/Adapters/PID/PID.md
-    - Messaging Adapters: resources/Adapters/Messaging/Messaging.md
-    - Monitoring Adapters: resources/Adapters/Monitoring/Monitoring.md
-    - Helpdesk Adapters: resources/Adapters/Helpdesk/Helpdesk.md
+    - Accounting Adapters: Adapters/Accounting/Accounting.md
+    - Horizontal Adapters: Adapters/Horizontal/Horizontal.md
+    - PID Adapters: Adapters/PID/PID.md
+    - Messaging Adapters: Adapters/Messaging/Messaging.md
+    - Monitoring Adapters: Adapters/Monitoring/Monitoring.md
+    - Helpdesk Adapters: Adapters/Helpdesk/Helpdesk.md
 copyright: EOSC Beyond is funded by the European Union Grant Agreement Number 101131875
