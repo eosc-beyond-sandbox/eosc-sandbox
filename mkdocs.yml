@@ -56,7 +56,7 @@ nav:
     - Order Management: Service Portfolio/Order Management/Order Management.md 
     - Frontend: Service Portfolio/User Space/User Space.md
   - Adapters:
-    - Catalogue Adapters: resources/Adapters/Research Product Catalogue/Catalogue.md
+    - Catalogue Adapters: Adapters/Research Product Catalogue/Catalogue.md
     - Accounting Adapters: resources/Adapters/Accounting/Accounting.md
     - Horizontal Adapters: resources/Adapters/Horizontal/Horizontal.md
     - PID Adapters: resources/Adapters/PID/PID.md
