@@ -1,4 +1,4 @@
-===
+# Resource Catalogue
 
 ## Description
 
@@ -34,9 +34,9 @@ More details about the software dependencies can be obtained from the [README fi
 
 ## Database Setup
 
-The Resource Catalogue requires a PostgreSQL database. No extra PostgreSQL extensions are required. Detailed instructions on how to deploy a PostgreSQL database from scratch in a Docker environment are available in the [PostgreSQL section](#PostgreSQL) of the [Deployment Guidelines](#Deployment-Guidelines).
+The Resource Catalogue requires a PostgreSQL database. No extra PostgreSQL extensions are required. Detailed instructions on how to deploy a PostgreSQL database from scratch in a Docker environment are available in the [PostgreSQL section](#postgresql) of the [Deployment Guidelines](#deployment-guidelines).
 
-After the initial startup of the application, additional database seeding needs to be performed using the Resource Catalogue's API. More details about this are available in the [Data Restore and Database Seeding](#Data-Restore-and-Database-Seeding) section.
+After the initial startup of the application, additional database seeding needs to be performed using the Resource Catalogue's API. More details about this are available in the [Data Restore and Database Seeding](#data-restore-and-database-seeding) section.
 
 ## Configuration Files and Examples
 
@@ -69,7 +69,7 @@ mkdir -p /opt/docker-data/traefik/acme/
 touch /opt/docker-data/traefik/acme/acme.json
 ```
 
-```yaml=
+```yaml
 services:
   traefik:
     image: 'traefik:v2.11'
@@ -107,7 +107,7 @@ networks:
 
 In the example above, the email on line `#16` needs to be customized to point to a real e-mail address used for registering to Let's Encrypt's ACME server.
 
-Once the container is started using `docker compose up -d`, virtual hosts for the reverse proxy are defined using labels in the respective `docker-compose.yml` file of the service, as is the case with the labels for the [Resource Catalogue](#Resource-Catalogue1).
+Once the container is started using `docker compose up -d`, virtual hosts for the reverse proxy are defined using labels in the respective `docker-compose.yml` file of the service, as is the case with the labels for the [Resource Catalogue](#resource-catalogue_1).
 
 ### Data Restore and Database Seeding
 
@@ -337,7 +337,7 @@ Finally, the existing reverse proxy should be configured to forward traffic to p
 
 All of the required environment variables are stored in a `.env` file next to the `docker-compose.yml`. If it does not exist, create the file and customize the parameters as needed.
 
-```env=
+```env
 # .env
 # PostgreSQL Datasource Configuration
 REGISTRY_DATASOURCE_CONFIGURATION_MAXIMUM_POOL_SIZE=10

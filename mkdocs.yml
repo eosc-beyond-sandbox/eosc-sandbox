@@ -63,4 +63,7 @@ nav:
     - Messaging Adapters: Adapters/Messaging/Messaging.md
     - Monitoring Adapters: Adapters/Monitoring/Monitoring.md
     - Helpdesk Adapters: Adapters/Helpdesk/Helpdesk.md
+  - Deployment Packages:
+    - Deployment Packages/index.md
+    - Resource Catalogue: Deployment Packages/Catalogue/Resource Catalogue.md
 copyright: EOSC Beyond is funded by the European Union Grant Agreement Number 101131875
