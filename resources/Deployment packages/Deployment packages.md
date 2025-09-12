@@ -1,4 +1,4 @@
 ### Deployment packages
 Template
 Helpdesk
-Catalogue
+- [Catalogue][Catalogue/Resource Catalogue]
