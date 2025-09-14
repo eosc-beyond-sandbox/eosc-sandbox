@@ -1,4 +1,4 @@
-# Deployment Packages
+# Deployment packages
 
 - [Template](Template/Template.md)
 - [Helpdesk](Helpdesk/Helpdesk.md)
