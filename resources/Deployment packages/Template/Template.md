@@ -1,4 +1,4 @@
-# Template
+# Template 
 
 ## Description of the package (1 paragraph)  
 
