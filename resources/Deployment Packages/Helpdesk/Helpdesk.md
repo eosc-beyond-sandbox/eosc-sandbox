@@ -1,6 +1,6 @@
 # Helpdesk 
 
-## Description of the package (1 paragraph)  
+## Description of the package  
 
 The EOSC Beyond helpdesk solution utilizes Zammad ([https://zammad.com/en](https://zammad.com/en)), an open-source, web-based helpdesk platform. Its source code is accessible on GitHub and maintained by the Zammad Foundation. Additionally, the helpdesk can be seamlessly integrated with the EOSC Beyond AAI service.
 
