@@ -6,20 +6,20 @@
 | Owner                     |                                                                                                                                                     |
 
 
-| APRICOTLab |                                                                                                                                                          |
+| APRICOTLab                | Advanced Platform for Reproducible Infrastructure in the Cloud via Open Tools for JupyterLab.                                                            |
 | :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Download  URL             | <https://ghcr.io/grycap/apricotlab:latest>                                                                                              |
-| User guides               |                                                                                                                                                           |
-| Technology documentation  | <https://github.com/grycap/apricotlab/blob/main/README.md>                                                                                                                                                         |
-| Owner                     |                                                                                                                                                     |
+| Download  URL             | Container Image: <https://ghcr.io/grycap/apricotlab:latest>                                                                                              |
+| User guides               | <https://github.com/grycap/apricotlab/blob/main/README.md>                                                                                               |
+| Technology documentation  | <https://github.com/grycap/apricotlab/blob/main/README.md>                                                                                               |
+| Owner                     |  UPV                                                                                                                                                     |
 
 
-| DS OAI-PMH Interface |                                                                                                                                                          |
+| DS OAI-PMH Interface      | OAI-PMH Client for Infrastructure Manager (IM)                                                                                                           |
 | :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Download  URL             | <https://oaim-client.py>                                                                                              |
-| User guides               |                                                                                                                                                           |
-| Technology documentation  | <https://github.com/grycap/im-oaipmh-client/blob/main/README.md>                                                                                                                                                         |
-| Owner                     |                                                                                                                                                     |
+| Download  URL             | <https://github.com/grycap/im-oaipmh-client/blob/main/oaim_client.py>                                                                                    |
+| User guides               | <https://github.com/grycap/im-oaipmh-client/blob/main/README.md>                                                                                         |
+| Technology documentation  | <https://github.com/grycap/im-oaipmh-client/blob/main/README.md>                                                                                         |
+| Owner                     | UPV                                                                                                                                                      |
 
 
 | Jupyter Data Access |                                                                                                                                                          |
