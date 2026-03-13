@@ -1,9 +1,9 @@
 # Adapters
 
-- [Catalogue Adapters](Template/Template.md)
-- [Accounting Adapters](Helpdesk/Helpdesk.md)
-- [Horizontal Adapters](Catalogue/Resource Catalogue.md)
-- [PID Adapters]
-- [Messaging Adapters]
-- [Monitoring Adapters]
-- [Helpdesk Adapters]
+- [Catalogue Adapters](Catalogue/Catalogue.md)
+- [Accounting Adapters](Accounting/Accounting.md)
+- [Horizontal Adapters](Horizontal/Horizontal.md)
+- [PID Adapters](PID/PID.md)
+- [Messaging Adapters](Messaging/Messaging.md)
+- [Monitoring Adapters](MOnitoring/Monitoring.md)
+- [Helpdesk Adapters](Helpdesk/Helpdesk.md)
