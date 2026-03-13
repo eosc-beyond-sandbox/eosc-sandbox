@@ -56,6 +56,7 @@ nav:
     - Order Management: Service Portfolio/Order Management/Order Management.md 
     - Frontend: Service Portfolio/User Space/User Space.md
   - Adapters:
+    - Adapters/index.md
     - Catalogue Adapters: Adapters/Research Product Catalogue/Catalogue.md
     - Accounting Adapters: Adapters/Accounting/Accounting.md
     - Horizontal Adapters: Adapters/Horizontal/Horizontal.md
