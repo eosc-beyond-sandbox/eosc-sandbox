@@ -11,3 +11,15 @@ The EOSC Deployment Service, implemented through the [Infrastructure Manager](ht
 | User guides               | <https://imdocs.readthedocs.io/en/latest> |
 | Technology documentation  |                                           |
 | Owner                     | UPV                                       |
+
+## EOSC ADIM API
+
+ADIM is the reference implementation of the [EOSC Application Deployment Management (ADM) API](https://github.com/EGI-Federation/eosc-application-deployment-manager). It exposes a federation-facing interface for application discovery, allocation management, and deployment lifecycle operations, and delegates application deployment to the Infrastructure Manager (IM).
+
+| ADIM                      |                                                                         |
+| :------------------------ | :---------------------------------------------------------------------- |
+| Service URL               | <https://deploy.sandbox.eosc-beyond.eu/adim>                            |
+| Integration documentation | <https://zenodo.org/records/20596323>                                   |
+| User guides               |                                                                         |
+| Technology documentation  |                                                                         |
+| Owner                     | UPV                                                                     |
